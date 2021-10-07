@@ -1,0 +1,9 @@
+﻿[*.cs]
+
+# IDE0022: Use block body for methods
+csharp_style_expression_bodied_methods = true
+
+# IDE0011: Add braces
+csharp_prefer_braces = false
+
+file_header_template = Copyright (c) 2021 Rxcle. Rxcle licenses this file to you under the MIT license.
